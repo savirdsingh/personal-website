@@ -60,7 +60,7 @@ body {
     margin: 0;
   }
   .info_text {
-    font-size: 60px;
+    font-size: 58px;
     white-space: nowrap;
             overflow: hidden;
             animation: typewriter 4s steps(49)  ;
